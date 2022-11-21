@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tWUXdRoBscQE3eCjSOWQRwpL9rpDhY1wg7PKSFb7sDk=",
+  "Source": "amitranetapi",
+  "BasePath": "_content/amitranetapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
